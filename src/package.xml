@@ -9,5 +9,9 @@
         <members>Corona_Status_Endpoint</members>
         <name>CspTrustedSite</name>
     </types>
+    <types>
+        <members>Corona_Chart_Scripts</members>
+        <name>StaticResource</name>
+    </types>
     <version>46.0</version>
 </Package>
